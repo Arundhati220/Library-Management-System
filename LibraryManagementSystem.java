@@ -55,7 +55,7 @@ public class LibraryManagementSystem {
             choice = sc.nextInt();
             sc.nextLine();
 
-            switch(choice) {
+            switch (choice) {
                 case 1:
                     addBook(sc);
                     break;
